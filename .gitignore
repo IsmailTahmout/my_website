@@ -30,6 +30,6 @@ src/.App.jsx.swap
 .env
 .env.local
 .env.*.local
-..env.example
+.env.example
 
 
