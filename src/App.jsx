@@ -14,7 +14,7 @@ function App() {
   }, [i18n.language]);
 
   const toggleLanguage = () => {
-    i18n.changeLanguage(i18n.language === 'en' ? 'ar' : 'en');
+    i18n.changeLanguage( i18n.language === 'en' ? 'ar' : 'en');
   };
 
   return (
