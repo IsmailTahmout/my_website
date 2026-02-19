@@ -11,14 +11,25 @@ node_modules
 dist
 dist-ssr
 *.local
+Php
+STATUS.md
+QUICK_REF.md
+SOLUTIONS.md
+RUNNING_NOW.md
+SETUP_GUIDE.md
+README_FIXES.md
+FINAL_SUMMARY.md
+FIXES_APPLIED.md
+IMPORTANT_NOTE.md
+ANALYSIS_SUMMARY.md
+SECURITY_ANALYSIS.md
+src/pages/Test.jsx
+src/pages/TestAi.jsx
+src/.App.jsx.swap
+# Environment variables
+.env
+.env.local
+.env.*.local
+..env.example
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+
